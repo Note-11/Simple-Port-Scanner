@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 import socket
 from netaddr import IPNetwork
 import sys
